@@ -30,7 +30,7 @@
  *         char 'p': BMP 180 pressure
  *         char 's': BMP 180 Sea level pressure
  *  Output: serial reading of temperature, humidity and pressure
- *  If an error is caught, it returns char 'e'.
+ *  If an error is caught, it returns the char 'e'.
  *  
  */
 
